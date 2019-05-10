@@ -1,5 +1,5 @@
 # hello-world
-New repository
+
 Hi, hosts!
 
 User here, I like words and learning about the git.
